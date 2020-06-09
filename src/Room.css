@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.room {
+    height: 100vh;
+}
+.lit {
+    background-color: snow;
+    color: black;
+}
+.dark {
+    background-color: black;
+    color: white;
+}
